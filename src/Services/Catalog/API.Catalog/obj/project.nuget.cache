@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnkP2GLrfqNjcJUFGqR9RJ6RrbDBKj5x4N+8bc5I+CT2opaVQYpnwMb7QDDqd63ChAqOvF8ZkJFbdI51LG30Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\API.Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

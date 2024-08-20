@@ -23,3 +23,10 @@ C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug
 C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\API.Catalog.pdb
 C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\API.Catalog.genruntimeconfig.cache
 C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\ref\API.Catalog.dll
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\bin\Debug\net8.0\MediatR.dll
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\API.Catalog.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\API.Catalog.sourcelink.json
+C:\Users\PC\Desktop\EShopMicrosrvices\src\Services\Catalog\API.Catalog\obj\Debug\net8.0\API.Cata.B1AFB60E.Up2Date

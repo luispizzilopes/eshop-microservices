@@ -1,15 +1,15 @@
 ﻿using MediatR;
 
-namespace API.Catalog.Products;
+namespace API.Catalog.Products.CreateProduct;
 
-public record CreateProductCommand 
+public record CreateProductCommand
 (
-    string Name, 
-    List<string> Category, 
-    string Description, 
-    string ImageFile, 
+    string Name,
+    List<string> Category,
+    string Description,
+    string ImageFile,
     decimal Price
-) : IRequest<CreateProductResult>; 
+) : IRequest<CreateProductResult>;
 
 public record CreateProductResult(Guid Id);
 

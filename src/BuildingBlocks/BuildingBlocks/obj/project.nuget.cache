@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DG4lUVeruT6+55IooVTkXGz2oR+wdwA6pjJH04iZ0yLpP5EXrp7BKjiIZPVcH0QOesCGfL8Bx/aBK06nbRCeTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

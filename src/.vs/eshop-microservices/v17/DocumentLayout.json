@@ -7,28 +7,36 @@
       "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87E06F90-CA0C-432A-AD5C-F4358D4FF396}|docker-compose.dcproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87E06F90-CA0C-432A-AD5C-F4358D4FF396}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346773C4-A850-4D23-B2A7-F5C5F8C74CE4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346773C4-A850-4D23-B2A7-F5C5F8C74CE4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87E06F90-CA0C-432A-AD5C-F4358D4FF396}|docker-compose.dcproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87E06F90-CA0C-432A-AD5C-F4358D4FF396}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346773C4-A850-4D23-B2A7-F5C5F8C74CE4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346773C4-A850-4D23-B2A7-F5C5F8C74CE4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\services\\catalog\\api.catalog\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD87BA4-E92E-40EE-A4C7-6C8D0ED926F8}|Services\\Catalog\\API.Catalog\\API.Catalog.csproj|solutionrelative:services\\catalog\\api.catalog\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346773C4-A850-4D23-B2A7-F5C5F8C74CE4}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\pc\\desktop\\eshopmicrosrvices\\src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog\\API.Catalog\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:53:49.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-03T22:29:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-03T22:24:10.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,14 +111,14 @@
               "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\appsettings.json",
               "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\appsettings.json",
               "RelativeToolTip": "Services\\Catalog\\API.Catalog\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-21T22:51:45.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\GlobalUsing.cs",
@@ -79,12 +126,11 @@
               "RelativeToolTip": "Services\\Catalog\\API.Catalog\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T22:47:40.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T22:47:40.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\Program.cs",
@@ -92,12 +138,11 @@
               "RelativeToolTip": "Services\\Catalog\\API.Catalog\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T22:47:39.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T22:47:39.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -110,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -118,12 +163,11 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:10:04.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T23:10:04.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -131,12 +175,11 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:03:20.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T23:03:20.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
@@ -144,12 +187,11 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:55:12.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T22:55:12.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -157,33 +199,19 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:51:34.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T22:51:34.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeToolTip": "Services\\Catalog\\API.Catalog\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T22:51:21.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\API.Catalog\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\EShopMicrosrvices\\src\\Services\\Catalog\\API.Catalog\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Catalog\\API.Catalog\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T21:59:43.006Z",
               "EditorCaption": ""
             }
           ]
